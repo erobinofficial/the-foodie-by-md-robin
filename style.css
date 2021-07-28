@@ -1,0 +1,102 @@
+body {
+    font-family: 'Archivo Narrow', sans-serif;
+    margin: 0;
+}
+.logo{
+    width: 100%;
+    height: 20px;
+}
+.logo img{
+    width: 20%;
+    margin-top: 15px;
+}
+.rename {
+    color: rgb(0, 153, 255);
+}
+.title {
+    color: gray;
+}
+.link-top{
+    margin-bottom: 40px;
+}
+.sectionOneTwo{
+    display: flex;
+}
+.side-width {
+    width: 50%;
+    padding-left: 5%;
+}
+.side-width img{
+    width: 66%;
+    float: right;
+    padding: 8% 11%;
+}
+.side-width-2{
+    padding-right:32%;
+}
+h1{
+    font-size:  65px;
+}
+.section-2{
+    margin-top:35px;
+    height: 450px;
+    width: 100%;
+    background-image: url("./images/shapes/7.png");
+    background-repeat: no-repeat;
+}
+.section-3{
+    margin-top: 80px;
+}
+.order-food{
+    text-decoration: none;
+    background-color: rgb(0, 153, 255);
+    color: white;
+    padding: 8px 24px;
+    border-radius: 50px;
+}
+.recipe-title{
+    text-align: center;
+    padding: 1% 30%;
+}
+.recipe{
+    display: flex;
+    padding-left: 12%;
+}
+.recipe-image{
+    width: 300px;
+    padding: 2% 1%;
+    margin-left: 46px;
+    box-shadow: 0px 0px 24px 0px #989898;
+    border-radius: 15px;
+}
+.recipe img{
+    width: 100%;
+}
+.followers{
+    font-size: 40px;
+    margin: 0px 0px -15px 0px; 
+    padding: 0px 0px 0px 0px;  
+}
+.subscriber{
+    padding-left: 150px;
+}
+.count{
+    display: flex;
+    padding-left: 14%;
+    box-shadow: 0px 0px 24px 0px #989898;
+    border-radius: 15px;
+    margin-top: 70px;
+    height: 145px;
+    width: 1030px;
+    margin-left: 138px;
+    padding-top: 60px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer-font{
+    font-size: 30px;
+}
