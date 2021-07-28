@@ -39,14 +39,11 @@ h1{
 }
 .section-2{
     margin-top: 4%;
-    height: 450px;
+    height: 600px;
     width: 100%;
     background-image: url("./images/shapes/7.png");
     background-repeat: no-repeat;
     margin-left: 3%;
-}
-.section-3{
-    margin-top: 6%;
 }
 .order-food{
     text-decoration: none;
